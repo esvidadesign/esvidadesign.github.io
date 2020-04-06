@@ -58,15 +58,18 @@ a:hover {
  padding-left: 20px 
 }
 
- .about-esther {
-     display: inline-block;
-     width: 30px;
-     height: 30px;
-     margin-left: 3px;
+ .about-esther-main {
+     float: left;
+     left: 50%;
  }
+ .about-esther-fixed {
+     float: left;
+     left: -50%;
  .about-isaac {
-     display: inline-block;
-     width: 30px;
-     height: 30px;
-     margin-right: 3px;
+     float: left;
+     left: 50%;
  }
+  .about-isaac-fixed {
+     float: left;
+     left: -50%;
+ }  
