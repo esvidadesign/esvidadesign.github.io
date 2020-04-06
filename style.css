@@ -55,21 +55,29 @@ a:hover {
 }
 
 .featured-names {
- padding-left: 20px 
+ padding-left: 20px;
+ 
 }
 
- .about-esther-main {
-     float: left;
-     left: 50%;
+ .about-esther {
+     float: right;
+     width: 50%;
  }
- .about-esther-fixed {
-     float: left;
-     left: -50%;
+
+ 
+ .esther-img {
+   width: 50%;
+ }
+ 
+ .isaac-img {
+   width: 50%;
+ }
+ 
+ .isaac {
+   
+ }
+ 
  .about-isaac {
      float: left;
-     left: 50%;
+     width: 50%;
  }
-  .about-isaac-fixed {
-     float: left;
-     left: -50%;
- }  
