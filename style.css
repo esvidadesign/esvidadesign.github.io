@@ -57,3 +57,16 @@ a:hover {
 .featured-names {
  padding-left: 20px 
 }
+
+ .about-esther {
+     display: inline-block;
+     width: 30px;
+     height: 30px;
+     margin-left: 3px;
+ }
+ .about-isaac {
+     display: inline-block;
+     width: 30px;
+     height: 30px;
+     margin-right: 3px;
+ }
