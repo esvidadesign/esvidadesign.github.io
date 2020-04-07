@@ -1,12 +1,12 @@
 body {
-  font-family: "Calibri Light";
+  font-family: "Lato", "Calibri Light" ,-apple-system;
 }
             
 #title {
   border-bottom: 2px solid rgb(196, 196, 196);
   padding-bottom: 5px;
-  font-size: 30px;
 }
+
 
 #about-us {
   font-weight: bold;
@@ -22,7 +22,7 @@ body {
 }
             
 .top {
-  font-family: "Calibri Light";
+  font-family: "Lato", "Calibri Light" ,-apple-system;
   text-decoration: none;
   color: black;
   padding-left: 20px;
@@ -62,6 +62,7 @@ a:hover {
  .about-esther {
      float: right;
      width: 50%;
+     font-size: 15px;
  }
 
  
@@ -70,14 +71,22 @@ a:hover {
  }
  
  .isaac-img {
+   width: 25%;
+   padding-left: 1px;
+ }
+ 
+ .esther {
    width: 50%;
+   margin: 0 auto;
  }
  
  .isaac {
-   
+   width: 50%;
+   margin: 0 auto;
  }
  
  .about-isaac {
      float: left;
      width: 50%;
+     font-size: 15px;
  }
